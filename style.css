@@ -146,19 +146,24 @@ a:hover::after {
     }
 
     .main-heading h1 {
-        font-size: 90px !important;
+        font-size: 75px !important;
         top: 0;
     }
 
     .main-heading h3 {
-        top: 44px;
+        font-size: 55px;
+        top: 104px;
     }
     
     #ImgMove {
-        width: 450px;
+        width: 100%;
     }
 
-    .main-text {
+    .main-text{
+        width: 100%;
+    }
+
+    .main-text-container .back-hydro {
         width: 100%;
     }
 }
